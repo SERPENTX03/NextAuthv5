@@ -2,7 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+Auth NextJS ล็อกอินด้วย Credentials Google Github Providers
+Connect ฐานข้อมูลด้วย mongoose เก็บใน MongoDB Atlas 
 
 ```bash
 npm run dev
